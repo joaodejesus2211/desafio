@@ -44,3 +44,7 @@ a:hover{
   color:cyan;
   transition:0.3s all
 }
+.image{
+  width: 100%;
+  height: auto;
+}
