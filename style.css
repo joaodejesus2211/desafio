@@ -17,7 +17,7 @@ body{
 
 nav{
   height: 50px;
-  background-color: deepskyblue;
+  background-color: rgb(255, 51, 0);
   display: flex;
   justify-content: space-between;
   padding: 10px;
@@ -38,4 +38,9 @@ a:hover{
   border: none;
   padding: 5px;
   cursor: pointer;
+}
+.btn:hover{
+  background-color:deepskyblue;
+  color:cyan;
+  transition:0.3s all
 }
